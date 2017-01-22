@@ -1,2 +1,2 @@
 # DatePicker
-it just an example.
+it is just an example.
